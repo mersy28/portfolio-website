@@ -1,4 +1,4 @@
-# 📁 Emaan Hookey - Portfolio Website
+# 📁 Faith Hookey - Portfolio Website
 
 Welcome to my personal front-end developer portfolio! This is where I showcase my skills, projects, and some questionable humor — all wrapped up in a clean, responsive, dark-mode-enabled website.
 
@@ -7,14 +7,14 @@ Welcome to my personal front-end developer portfolio! This is where I showcase m
 ## 🚀 Live Site
 
 Visit it here:
-**https://emaan.dev**
+**https://www.hookey.ca**
 
 ---
 
 ## Support
 
 If you’d like to support my work, you can sponsor me here:  
-[GitHub Sponsors](https://github.com/sponsors/mersy-28)
+[GitHub Sponsors](https://github.com/sponsors/mersy28)
 
 ---
 
@@ -44,7 +44,7 @@ If you’d like to support my work, you can sponsor me here:
 
 1. Clone this repo
 ```
-git clone https://github.com/mersy-28/portfolio-website.git
+git clone https://github.com/mersy28/portfolio-website.git
 cd portfolio-website
 ```
 
@@ -62,4 +62,4 @@ npx serve
 ## 📬 Contact
 
 Have a project idea or opportunity?
-Use the contact form on the website, or shoot me an email at: [contact@emaan.dev](mailto:contact@emaan.dev)
+Use the contact form on the website, or shoot me an email at: [contact@hookey.ca](mailto:contact@hookey.ca)
